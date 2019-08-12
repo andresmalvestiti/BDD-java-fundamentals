@@ -4,8 +4,8 @@ Java BDD example
 Java example project to understand the basis of BDD with Gherkin, Cucumber and Serenity.
 
 ## What is BDD?
-•	Collaboration and conversation
-•	Concrete examples and business rules
+*	Collaboration and conversation
+*	Concrete examples and business rules
 •	A common language and a shared understanding
 •	Faster feedback through early and effective automation
 BDD always starts with a conversation about the customer’s needs. It gives us techniques to structure and facilitate these conversations. The team talks about examples and counter examples about how the user interact with the application. At the end of the conversation the whole team have a clear picture of what they need to build. They build this picture bit by bit, clarifying the details by asking questions. 
